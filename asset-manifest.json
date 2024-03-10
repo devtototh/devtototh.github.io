@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/devtototh.github.io/static/css/main.86cce402.css",
-    "main.js": "/devtototh.github.io/static/js/main.0049977b.js",
-    "static/js/453.f48162e6.chunk.js": "/devtototh.github.io/static/js/453.f48162e6.chunk.js",
-    "static/media/logo.svg": "/devtototh.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/devtototh.github.io/index.html",
-    "main.86cce402.css.map": "/devtototh.github.io/static/css/main.86cce402.css.map",
-    "main.0049977b.js.map": "/devtototh.github.io/static/js/main.0049977b.js.map",
-    "453.f48162e6.chunk.js.map": "/devtototh.github.io/static/js/453.f48162e6.chunk.js.map"
+    "main.css": "/static/css/main.86cce402.css",
+    "main.js": "/static/js/main.113f4541.js",
+    "static/js/453.f48162e6.chunk.js": "/static/js/453.f48162e6.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.86cce402.css.map": "/static/css/main.86cce402.css.map",
+    "main.113f4541.js.map": "/static/js/main.113f4541.js.map",
+    "453.f48162e6.chunk.js.map": "/static/js/453.f48162e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86cce402.css",
-    "static/js/main.0049977b.js"
+    "static/js/main.113f4541.js"
   ]
 }
